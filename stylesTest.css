@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* Add to styles.css */
+.schedule-viewer {
+  margin: 20px;
+  padding: 10px;
+  /* Additional styling here */
+}
+/* Add to styles.css */
+.machine-management {
+  margin: 20px;
+  padding: 10px;
+  /* Additional styling here */
+}
+.App-header {
+  display: none; /* This would hide the header */
+}
+.AppBar {
+  z-index: 1100; /* The default z-index for AppBars in Material-UI */
+}
